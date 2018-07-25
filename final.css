@@ -1,0 +1,17 @@
+a:link {
+  color:black;
+}
+ul   {
+  list-style: none;
+}
+
+li {
+  display:inline-block;
+  background-color: none;
+  padding:1em ;
+}
+
+li:hover {
+  background-color: redOrange;
+
+}
